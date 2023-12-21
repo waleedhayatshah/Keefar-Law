@@ -1,0 +1,371 @@
+@media only screen and (min-width: 0px) and  (max-width: 575px){
+    .navbar-links{
+        display: none;
+        width: 100%;
+        text-align: center;
+        font-size: 2.5vw;
+        margin: 0 6vw 0 9vw;
+    }
+    .navbar-toggle{
+        display: block;
+        font-size: 3vw;
+    }
+
+    .active{
+        display: block;
+    }
+    .sec2-list-items{
+        margin-right: 3vw;
+    }
+    .sec2-list-items li{
+        padding: 3vw;
+    }
+    .section1-col2{
+        padding-top: 2vw;
+    }
+    .section1-col2 h4{
+        font-size: 2vw;
+    }
+    .section1-col2 h1{
+        font-size: 4vw;
+    }
+    .section1-col2 h5{
+        font-size: 1.7vw;
+    }
+    .section1-col1 img{
+        height: 13vw;
+    }
+    .section2 ul{
+        flex-wrap: wrap;
+    }
+    .section3{
+        flex-direction: column;
+        align-items: center;
+    }
+    .section3-col1, .section3-col2{
+        width: 85vw;
+        margin: 3vw 0vw;
+    }
+    .section3-col2{
+        margin-top: 0vw;
+        padding-bottom: 2vw;
+    }
+    .questions{
+        font-size: 3.5vw;
+        font-weight: 500;
+    }
+    .qs{
+        font-size: 4vw;
+    }
+    .questions label{
+        font-size: 2.5vw;
+        margin-left: 6vw;
+    }
+    .form{
+        margin-left: 8vw;
+    }
+    .form p{
+        font-size: 2.5vw;
+        width: 60vw;
+        margin: 2vw 0;
+    }
+    .labels label{
+        font-size: 2vw;
+    }
+    .labels input{
+        margin-bottom: 0.8vw;
+        width: 28vw; 
+        padding: 2vw 1vw;
+    }
+    .confidential img{
+        transform: rotate(25deg);
+        margin-top:  5vw;
+        margin-left: 5vw;
+        width: 20vw;
+    }
+    textarea{
+        width: 61vw;
+        margin: 1.5vw 0;
+        font-size: 2.8vw;
+    }
+
+    .privacy-button span{
+        font-size: 2.2vw;
+    }
+    .privacy-button a{
+        padding: 1vw 2vw;
+        font-size: 2.4vw;
+        border: none;
+        margin-left: 3vw;
+    }
+    .section4{
+        flex-direction: column;
+        margin: 0 10vw;
+    }
+    .section4-col1 h3{
+        font-size: 3.4vw;
+    }
+
+    .section4-col2{
+        border: none;
+    }
+    .section4-col2-sub{
+        padding: 0;
+        gap: 10vw;
+        border: none;
+        margin-bottom: 5vw;
+    }
+    .section4-col2-sub2{
+        padding: 0;
+        gap: 4vw;
+    }
+    .section4-col1 h2, .section4-col2-sub h2, .section4-col2-sub2 h2, .section4-col3 h2, .section5-col1 h1,.section5-col1 .p1, .section5-col1 .p2, .section5-col2 h1, .section5-col3-sub h2{
+        font-size: 4.8vw;
+    }
+    .section4-col1 p, .section4-col2-sub p, .section4-col2-sub2 p, .section4-col3 p{
+        margin: 2vw 0;
+        font-size: 3.5vw;
+    }
+    .section4-col1, .section4-col2, .section4-col3 {
+        border-bottom: 1px solid rgb(184, 181, 181);
+        padding: 7vw 0;
+    }
+    .section4-col3 h2{
+        width: 100%;
+    }
+    .shadow{
+        display: none;
+    }
+    .images img:nth-of-type(1){
+        width: 30%;
+        margin-right: 4vw;
+    }
+    .images img:nth-of-type(2){
+        width: 25%;
+    }
+    .paste-board-main img{
+        width: 17vw;
+        margin-left: 12vw;
+    }
+
+    .section4-col2-sub div img, .section4-col2-sub2 div img{
+        width: 30vw;
+    }
+    .section4-col2 button , .section4-col3 button , .section4-col1 button, .section5-col3 button{
+        border-radius: 0.5vw;
+        padding: 1.2vw 2vw;
+        font-size: 2.6vw;
+        font-weight: 600;
+        margin-top: 0.7vw;
+    }
+
+    .section5{
+        flex-direction: column;
+        
+    }
+
+    .section5-col1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .section5-sub{
+        width: 60vw;
+        margin-bottom: 4vw;
+    }
+    .section5-sub p{
+        width: 3vw;
+        height: 20vw;
+        padding: 0;
+    }
+    .section5-sub h2{
+        font-size: 4.2vw;
+    }
+    .section5-sub button{
+        font-size: 3.2vw;
+        padding-top: 5vw;
+        padding-left: 30vw;
+    }
+
+    .section5-col1, .section5-col2, .section5-col3 {
+        padding: 10vw 0;
+    }
+    .section5-col2 p, .section5-col3-sub p{
+        font-size: 3.3vw;
+    }
+    .section5-col2{
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-top: 1px solid rgb(184, 181, 181);
+        border-bottom: 1px solid rgb(184, 181, 181);
+    }
+    .section5-col3-sub{
+        text-align: center;
+    }
+    .section5-col3-sub img{ 
+        margin-bottom: -4vw; 
+        width: 80%; 
+        height: 0.2vw;
+    }
+    .section5-col3-sub button{
+        margin: 3vw 0 2vw 0;
+    }
+    .section5-col3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 0 !important;
+    }
+    .links-img{
+        gap: 2vw;
+    }
+    .links-img img{
+        width: 12%;
+    }
+    .links h3{
+        font-size: 4vw;
+    }
+    .qqq-img{
+        display: inline;
+        margin-bottom: 5vw;
+    }
+    .qqq-img img:nth-of-type(1){
+        width: 20vw;
+    }
+    .qqq-img img:nth-of-type(2){
+        width: 17vw;
+        margin-top: 2vw;
+        margin-left: 2vw;
+    }
+}
+
+@media only screen and (min-width: 576px) and  (max-width: 767px){
+    textarea{
+        margin: 0.8vw 0;
+    }
+    textarea::placeholder{
+        font-size: 1.3vw;
+    }
+    .form p{
+        margin: 0.6vw 0;
+    }
+    .labels input{
+        margin-bottom: 0.4vw;
+    }
+    .section4-col2-sub div img, .section4-col2-sub2 div img{
+        width: 12vw;
+    }
+    .images img:nth-of-type(1){
+        width: 30%;
+        margin-right: 2vw;
+    }
+    .images img:nth-of-type(2){
+        width: 25%;
+    }
+
+
+    .section4{
+        margin: 3vw;
+        justify-content: space-between;
+    }
+    .section4-col1 p, .section4-col2-sub p, .section4-col2-sub2 p, .section4-col3 p{
+        font-size: 1.3vw;
+    }
+    .section4-col1, .section4-col3{
+        width: 25%;
+    }
+
+
+
+    .section5-sub p{
+        height: 8.5vw;
+    }
+    .section5-sub button{
+        padding-left: 8vw;
+        font-size: 1.3vw;
+    }
+    .section5-col2 h1{
+        font-size: 2.5vw;
+    }
+    .section5-col2 p{
+        font-size: 2vw;
+    }
+    .section5-col3-sub h2{
+        font-size: 2vw;
+    }
+    .section5-col3-sub p{
+        font-size: 1.6vw;
+    }
+    .section5-col3-sub img{ 
+        margin-bottom: -1.3vw; 
+        /* width: 80%;  */
+        height: 0.2vw;
+    }
+    .section5-col3-sub button{
+        margin-left: 5vw;
+    }
+    .links-img{
+        gap: 1vw;
+    }
+    .links-img img{
+        width: 15%;
+    }
+}
+
+
+@media only screen and (min-width: 768px) and  (max-width: 991px){
+    
+    textarea{
+        margin: 0.8vw 0;
+    }
+    .form p{
+        margin: 0.6vw 0;
+    }
+    .section4{
+        margin: 3vw;
+        justify-content: space-between;
+    }
+    .section4-col1 p, .section4-col2-sub p, .section4-col2-sub2 p, .section4-col3 p{
+        font-size: 1.3vw;
+    }
+    .section4-col1, .section4-col3{
+        width: 25%;
+    }
+    
+    
+    .section5-sub p{
+        height: 8.5vw;
+    }
+    .section5-sub button{
+        padding-left: 8vw;
+        font-size: 1.3vw;
+    }
+    .section5-col2 h1{
+        font-size: 2.5vw;
+    }
+    .section5-col2 p{
+        font-size: 2vw;
+    }
+    .section5-col3-sub h2{
+        font-size: 2vw;
+    }
+    .section5-col3-sub p{
+        font-size: 1.6vw;
+    }
+    .section5-col3-sub img{ 
+        margin-bottom: -1.3vw; 
+        /* width: 80%;  */
+        height: 0.2vw;
+    }
+    .section5-col3-sub button{
+        margin-left: 5vw;
+    }
+    .links-img{
+        gap: 1vw;
+    }
+    .links-img img{
+        width: 15%;
+    }
+}
